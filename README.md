@@ -44,7 +44,7 @@ This project demonstrates a practical implementation of OTP verification, which 
 7. Verify the OTP:
 
    ->Change the URL to the OTP verification endpoint, which should be http://localhost:3000/auth/verifyotp.
-   ->Update the JSON in the body to include the OTP you received, like so:
+    ->Update the JSON in the body to include the OTP you received, like so:
 
 
 {
